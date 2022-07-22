@@ -26,7 +26,7 @@
       "url": "https://opencollective.com/formik"
     }
   ],
-  "main": "src/index.tsx",
+  "main": "dist/index.js",
   "umd:main": "dist/formik.umd.production.js",
   "module": "dist/formik.esm.js",
   "typings": "dist/index.d.ts",
